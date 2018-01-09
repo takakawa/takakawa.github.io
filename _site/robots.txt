@@ -1,1 +1,0 @@
-Sitemap: http://www.takakawa.life/flexible-jekyll/sitemap.xml
