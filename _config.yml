@@ -4,7 +4,7 @@ permalink:           pretty
 # Setup
 title:               Poole
 tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+url:                 http://www.takakawa.life
 paginate:            1
 baseurl:             ""
 
@@ -19,7 +19,7 @@ sass:
 author:
   name:              Mark Otto
   url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  email:             takakawa@163.com
 
 # Custom vars
 version:             2.0.0
