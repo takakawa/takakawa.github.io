@@ -1,4 +1,0 @@
-# Takakwa'Blog
----
-## xxx
-
